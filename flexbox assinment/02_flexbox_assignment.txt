@@ -1,0 +1,8 @@
+2.Explain the role of the following key properties in the Flexbox layout model
+
+solution -->
+1.justify-content→  It defines the alignment along the main axis.
+2.align-items→ It defines the alignment along the cross axis .
+3.gap→  The gap property defines the size of the gap between the rows and between the columns in flexbox, grid or multi-column layout.
+4.flex-direction→ The flex-direction property specifies how flex items are placed in the flex container, by setting the direction of the flex container's main axis. This determines the direction in which flex items are laid out.
+5.flex-wrap→  flex-wrap allows flex items to wrap onto more than one line. flex-flow shorthand for flex-direction + flex-wrap. justify-content allows items to align along the main axis. align-content allows items to align along the cross axis in a single line.
